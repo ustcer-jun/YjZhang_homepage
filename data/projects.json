@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": "Medical Image Analysis Tool",
+    "description": "A deep learning-based tool for analyzing medical images to detect anomalies and assist in diagnosis.",
+    "techStack": ["Python", "TensorFlow", "PyTorch", "OpenCV"],
+    "githubLink": "https://github.com/username/medical-image-analysis",
+    "demoLink": "https://demo.medical-image-analysis.com",
+    "thumbnail": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=medical%20image%20analysis%20tool%20interface&image_size=square"
+  },
+  {
+    "id": 2,
+    "title": "Natural Language Processing Library",
+    "description": "A lightweight NLP library for text classification, sentiment analysis, and named entity recognition.",
+    "techStack": ["Python", "NLTK", "spaCy", "scikit-learn"],
+    "githubLink": "https://github.com/username/nlp-library",
+    "demoLink": "https://demo.nlp-library.com",
+    "thumbnail": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=nlp%20library%20code%20and%20visualization&image_size=square"
+  },
+  {
+    "id": 3,
+    "title": "Personal Finance Tracker",
+    "description": "A web application to track personal finances, set budgets, and visualize spending patterns.",
+    "techStack": ["React", "TypeScript", "Node.js", "MongoDB"],
+    "githubLink": "https://github.com/username/finance-tracker",
+    "demoLink": "https://finance-tracker.com",
+    "thumbnail": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=personal%20finance%20tracker%20dashboard&image_size=square"
+  },
+  {
+    "id": 4,
+    "title": "Smart Home Automation System",
+    "description": "A system to control smart home devices, monitor energy usage, and automate routines.",
+    "techStack": ["Raspberry Pi", "Python", "MQTT", "React Native"],
+    "githubLink": "https://github.com/username/smart-home",
+    "demoLink": "https://demo.smart-home.com",
+    "thumbnail": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=smart%20home%20automation%20dashboard&image_size=square"
+  },
+  {
+    "id": 5,
+    "title": "E-commerce Website",
+    "description": "A full-stack e-commerce platform with product management, shopping cart, and payment integration.",
+    "techStack": ["Next.js", "TypeScript", "Stripe", "PostgreSQL"],
+    "githubLink": "https://github.com/username/ecommerce",
+    "demoLink": "https://ecommerce-demo.com",
+    "thumbnail": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=e-commerce%20website%20homepage&image_size=square"
+  },
+  {
+    "id": 6,
+    "title": "Machine Learning Model Deployment",
+    "description": "A framework for deploying machine learning models to production with CI/CD pipelines.",
+    "techStack": ["Docker", "Kubernetes", "FastAPI", "AWS"],
+    "githubLink": "https://github.com/username/ml-deployment",
+    "demoLink": "https://demo.ml-deployment.com",
+    "thumbnail": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=machine%20learning%20deployment%20pipeline&image_size=square"
+  }
+]

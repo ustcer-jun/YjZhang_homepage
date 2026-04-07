@@ -1,0 +1,74 @@
+{
+  "nav": {
+    "introduction": "Introduction",
+    "education": "Education",
+    "publications": "Publications",
+    "skills": "Skills",
+    "links": "Links"
+  },
+  "hero": {
+    "name": "Zhang Yajun",
+    "title": "Ph.D. Candidate",
+    "bio": "I'm a researcher focused on my field of study."
+  },
+  "about": {
+    "title": "About Me",
+    "intro": "I'm a PhD candidate specializing in my research area. My work focuses on various aspects of my field, including specific research interests and methodologies.",
+    "highlights": {
+      "research": "Research Interests",
+      "research1": "Topic 1",
+      "research2": "Topic 2",
+      "research3": "Topic 3",
+      "focus": "Current Focus",
+      "focus1": "Research area 1",
+      "focus2": "Research area 2",
+      "focus3": "Research area 3",
+      "fun": "Fun Facts",
+      "fun1": "Hobby 1",
+      "fun2": "Hobby 2",
+      "fun3": "Hobby 3"
+    }
+  },
+  "education": {
+    "title": "Education"
+  },
+  "skills": {
+    "title": "Skills & Expertise"
+  },
+  "publications": {
+    "title": "Publications",
+    "doi": "DOI",
+    "pdf": "PDF"
+  },
+  "blog": {
+    "title": "Related Links"
+  },
+  "shares": {
+    "title": "Personal Shares",
+    "travel": "Travel Footprints",
+    "daily": "Daily Life",
+    "conferences": "Conferences & Research",
+    "campus": "Campus Share",
+    "game": "Game Share",
+    "concert": "Concert Share",
+    "research": "Research",
+    "chendu": "Chengdu",
+    "hefei": "Hefei",
+    "henan": "Henan",
+    "jiuzhaigou": "Jiuzhaigou",
+    "lanzhou": "Lanzhou",
+    "qingdao": "Qingdao",
+    "wuhan": "Wuhan",
+    "xiamen": "Xiamen"
+  },
+  "contact": {
+    "title": "Contact",
+    "email": "Email",
+    "phone": "Phone/WeChat",
+    "address": "Address"
+  },
+  "footer": {
+    "copyright": "© 2026 Zhang Yajun. All rights reserved.",
+    "back_to_top": "Back to Top"
+  }
+}

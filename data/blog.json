@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "Getting Started with Machine Learning",
+    "date": "2024-03-15",
+    "excerpt": "A beginner's guide to machine learning, covering the basics of algorithms, models, and practical applications.",
+    "category": "Machine Learning",
+    "link": "#"
+  },
+  {
+    "id": 2,
+    "title": "Deep Learning for Computer Vision",
+    "date": "2024-02-28",
+    "excerpt": "Exploring the latest advances in deep learning for computer vision, including convolutional neural networks and transformers.",
+    "category": "Computer Vision",
+    "link": "#"
+  },
+  {
+    "id": 3,
+    "title": "Natural Language Processing Techniques",
+    "date": "2024-02-10",
+    "excerpt": "An overview of natural language processing techniques, from traditional methods to modern transformer-based models.",
+    "category": "NLP",
+    "link": "#"
+  },
+  {
+    "id": 4,
+    "title": "Deploying Machine Learning Models to Production",
+    "date": "2024-01-25",
+    "excerpt": "A step-by-step guide to deploying machine learning models to production, including containerization and CI/CD pipelines.",
+    "category": "MLOps",
+    "link": "#"
+  },
+  {
+    "id": 5,
+    "title": "Federated Learning for Privacy-Preserving AI",
+    "date": "2024-01-10",
+    "excerpt": "Understanding federated learning and its applications in privacy-preserving artificial intelligence systems.",
+    "category": "Privacy",
+    "link": "#"
+  },
+  {
+    "id": 6,
+    "title": "The Future of AI in Healthcare",
+    "date": "2023-12-20",
+    "excerpt": "Exploring the potential impact of artificial intelligence on healthcare, from diagnosis to treatment planning.",
+    "category": "Healthcare",
+    "link": "#"
+  }
+]

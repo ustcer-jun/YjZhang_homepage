@@ -1,0 +1,50 @@
+{
+  "authored": [
+    {
+      "id": 1,
+      "title": "Machine Learning Fundamentals",
+      "description": "A comprehensive introduction to machine learning concepts, algorithms, and applications.",
+      "cover": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=machine%20learning%20book%20cover&image_size=portrait_4_3",
+      "downloadLink": "#"
+    },
+    {
+      "id": 2,
+      "title": "Deep Learning for Computer Vision",
+      "description": "A practical guide to deep learning techniques for computer vision applications.",
+      "cover": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=deep%20learning%20computer%20vision%20book%20cover&image_size=portrait_4_3",
+      "downloadLink": "#"
+    }
+  ],
+  "technical": [
+    {
+      "id": 1,
+      "title": "Machine Learning Model Deployment Guide",
+      "description": "A technical guide to deploying machine learning models to production environments.",
+      "cover": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=technical%20document%20cover%20deployment&image_size=portrait_4_3",
+      "downloadLink": "#"
+    },
+    {
+      "id": 2,
+      "title": "Data Science Workflow Best Practices",
+      "description": "A collection of best practices for data science workflows and project management.",
+      "cover": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=data%20science%20workflow%20document%20cover&image_size=portrait_4_3",
+      "downloadLink": "#"
+    }
+  ],
+  "notes": [
+    {
+      "id": 1,
+      "title": "Advanced Machine Learning Notes",
+      "description": "Detailed notes on advanced machine learning topics and techniques.",
+      "cover": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=study%20notes%20cover%20machine%20learning&image_size=portrait_4_3",
+      "downloadLink": "#"
+    },
+    {
+      "id": 2,
+      "title": "Computer Vision Algorithms",
+      "description": "Notes on computer vision algorithms and their implementations.",
+      "cover": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=computer%20vision%20notes%20cover&image_size=portrait_4_3",
+      "downloadLink": "#"
+    }
+  ]
+}

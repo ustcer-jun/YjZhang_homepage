@@ -1,0 +1,235 @@
+{
+  "travel": {
+    "title": "Travel Footprints",
+    "galleries": [
+      {
+        "id": 1,
+        "title": "Chengdu",
+        "folder": "Travel_Footprints/Chendu",
+        "thumbnail": "/Travel_Footprints/Chendu/IMG_4625.HEIC",
+        "items": [
+          { "type": "image", "src": "/Travel_Footprints/Chendu/IMG_4625.HEIC", "alt": "Chengdu" },
+          { "type": "image", "src": "/Travel_Footprints/Chendu/IMG_4639.HEIC", "alt": "Chengdu" },
+          { "type": "image", "src": "/Travel_Footprints/Chendu/IMG_4660.HEIC", "alt": "Chengdu" },
+          { "type": "image", "src": "/Travel_Footprints/Chendu/IMG_4661.HEIC", "alt": "Chengdu" },
+          { "type": "image", "src": "/Travel_Footprints/Chendu/IMG_4663.HEIC", "alt": "Chengdu" },
+          { "type": "image", "src": "/Travel_Footprints/Chendu/IMG_4664.HEIC", "alt": "Chengdu" },
+          { "type": "image", "src": "/Travel_Footprints/Chendu/IMG_4665.HEIC", "alt": "Chengdu" },
+          { "type": "image", "src": "/Travel_Footprints/Chendu/IMG_4666.HEIC", "alt": "Chengdu" },
+          { "type": "image", "src": "/Travel_Footprints/Chendu/IMG_4670.HEIC", "alt": "Chengdu" },
+          { "type": "image", "src": "/Travel_Footprints/Chendu/IMG_4671.HEIC", "alt": "Chengdu" },
+          { "type": "image", "src": "/Travel_Footprints/Chendu/IMG_4672.HEIC", "alt": "Chengdu" },
+          { "type": "image", "src": "/Travel_Footprints/Chendu/IMG_4673.HEIC", "alt": "Chengdu" },
+          { "type": "image", "src": "/Travel_Footprints/Chendu/IMG_4675.HEIC", "alt": "Chengdu" },
+          { "type": "image", "src": "/Travel_Footprints/Chendu/IMG_4684.HEIC", "alt": "Chengdu" },
+          { "type": "image", "src": "/Travel_Footprints/Chendu/IMG_4687.HEIC", "alt": "Chengdu" },
+          { "type": "image", "src": "/Travel_Footprints/Chendu/IMG_4689.HEIC", "alt": "Chengdu" },
+          { "type": "image", "src": "/Travel_Footprints/Chendu/IMG_4690.HEIC", "alt": "Chengdu" },
+          { "type": "image", "src": "/Travel_Footprints/Chendu/IMG_4691.HEIC", "alt": "Chengdu" },
+          { "type": "image", "src": "/Travel_Footprints/Chendu/IMG_4692.HEIC", "alt": "Chengdu" },
+          { "type": "image", "src": "/Travel_Footprints/Chendu/IMG_4693.HEIC", "alt": "Chengdu" },
+          { "type": "image", "src": "/Travel_Footprints/Chendu/IMG_4694.HEIC", "alt": "Chengdu" },
+          { "type": "video", "src": "/Travel_Footprints/Chendu/IMG_4695.MOV", "alt": "Chengdu" },
+          { "type": "video", "src": "/Travel_Footprints/Chendu/IMG_4696.MOV", "alt": "Chengdu" },
+          { "type": "image", "src": "/Travel_Footprints/Chendu/IMG_4697.HEIC", "alt": "Chengdu" },
+          { "type": "image", "src": "/Travel_Footprints/Chendu/IMG_4699.HEIC", "alt": "Chengdu" },
+          { "type": "image", "src": "/Travel_Footprints/Chendu/IMG_4700.HEIC", "alt": "Chengdu" },
+          { "type": "image", "src": "/Travel_Footprints/Chendu/IMG_4701.HEIC", "alt": "Chengdu" },
+          { "type": "image", "src": "/Travel_Footprints/Chendu/IMG_4706.HEIC", "alt": "Chengdu" },
+          { "type": "image", "src": "/Travel_Footprints/Chendu/IMG_4717.HEIC", "alt": "Chengdu" },
+          { "type": "image", "src": "/Travel_Footprints/Chendu/IMG_4718.HEIC", "alt": "Chengdu" },
+          { "type": "image", "src": "/Travel_Footprints/Chendu/IMG_4720.HEIC", "alt": "Chengdu" }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Hefei",
+        "folder": "Travel_Footprints/Hefei",
+        "thumbnail": "/Travel_Footprints/Hefei/IMG_0740.HEIC",
+        "items": [
+          { "type": "image", "src": "/Travel_Footprints/Hefei/IMG_0740.HEIC", "alt": "Hefei" },
+          { "type": "image", "src": "/Travel_Footprints/Hefei/IMG_0944.HEIC", "alt": "Hefei" },
+          { "type": "image", "src": "/Travel_Footprints/Hefei/IMG_1165.HEIC", "alt": "Hefei" },
+          { "type": "video", "src": "/Travel_Footprints/Hefei/IMG_1174.MOV", "alt": "Hefei" },
+          { "type": "image", "src": "/Travel_Footprints/Hefei/IMG_1441.HEIC", "alt": "Hefei" },
+          { "type": "image", "src": "/Travel_Footprints/Hefei/IMG_3312.HEIC", "alt": "Hefei" },
+          { "type": "video", "src": "/Travel_Footprints/Hefei/IMG_3482.MOV", "alt": "Hefei" },
+          { "type": "image", "src": "/Travel_Footprints/Hefei/IMG_4247.HEIC", "alt": "Hefei" },
+          { "type": "image", "src": "/Travel_Footprints/Hefei/IMG_4492.HEIC", "alt": "Hefei" },
+          { "type": "image", "src": "/Travel_Footprints/Hefei/IMG_4506.HEIC", "alt": "Hefei" },
+          { "type": "image", "src": "/Travel_Footprints/Hefei/IMG_4514.HEIC", "alt": "Hefei" },
+          { "type": "image", "src": "/Travel_Footprints/Hefei/IMG_4517.HEIC", "alt": "Hefei" },
+          { "type": "image", "src": "/Travel_Footprints/Hefei/IMG_4519.HEIC", "alt": "Hefei" },
+          { "type": "image", "src": "/Travel_Footprints/Hefei/IMG_4974.HEIC", "alt": "Hefei" },
+          { "type": "image", "src": "/Travel_Footprints/Hefei/IMG_5146.HEIC", "alt": "Hefei" },
+          { "type": "image", "src": "/Travel_Footprints/Hefei/IMG_5296.heic", "alt": "Hefei" }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Henan",
+        "folder": "Travel_Footprints/Henan",
+        "thumbnail": "/Travel_Footprints/Henan/IMG_0298.HEIC",
+        "items": [
+          { "type": "image", "src": "/Travel_Footprints/Henan/IMG_0298.HEIC", "alt": "Henan" },
+          { "type": "image", "src": "/Travel_Footprints/Henan/IMG_0301.HEIC", "alt": "Henan" },
+          { "type": "image", "src": "/Travel_Footprints/Henan/IMG_0303.HEIC", "alt": "Henan" },
+          { "type": "image", "src": "/Travel_Footprints/Henan/IMG_0306.HEIC", "alt": "Henan" },
+          { "type": "image", "src": "/Travel_Footprints/Henan/IMG_0307.HEIC", "alt": "Henan" },
+          { "type": "image", "src": "/Travel_Footprints/Henan/IMG_0308.HEIC", "alt": "Henan" },
+          { "type": "image", "src": "/Travel_Footprints/Henan/IMG_0309.HEIC", "alt": "Henan" },
+          { "type": "video", "src": "/Travel_Footprints/Henan/IMG_0313.MOV", "alt": "Henan" },
+          { "type": "video", "src": "/Travel_Footprints/Henan/IMG_0314.MOV", "alt": "Henan" },
+          { "type": "image", "src": "/Travel_Footprints/Henan/IMG_0318.HEIC", "alt": "Henan" },
+          { "type": "image", "src": "/Travel_Footprints/Henan/IMG_0319.HEIC", "alt": "Henan" },
+          { "type": "video", "src": "/Travel_Footprints/Henan/IMG_0320.MOV", "alt": "Henan" },
+          { "type": "image", "src": "/Travel_Footprints/Henan/IMG_0327.HEIC", "alt": "Henan" },
+          { "type": "video", "src": "/Travel_Footprints/Henan/IMG_0328.mov", "alt": "Henan" },
+          { "type": "video", "src": "/Travel_Footprints/Henan/IMG_0329.MOV", "alt": "Henan" },
+          { "type": "video", "src": "/Travel_Footprints/Henan/IMG_0331.mov", "alt": "Henan" },
+          { "type": "video", "src": "/Travel_Footprints/Henan/IMG_0332.mov", "alt": "Henan" },
+          { "type": "video", "src": "/Travel_Footprints/Henan/IMG_0333.MOV", "alt": "Henan" },
+          { "type": "video", "src": "/Travel_Footprints/Henan/IMG_0334.mov", "alt": "Henan" },
+          { "type": "video", "src": "/Travel_Footprints/Henan/IMG_0335.MOV", "alt": "Henan" },
+          { "type": "video", "src": "/Travel_Footprints/Henan/IMG_0336.mov", "alt": "Henan" },
+          { "type": "video", "src": "/Travel_Footprints/Henan/IMG_0337.mov", "alt": "Henan" },
+          { "type": "video", "src": "/Travel_Footprints/Henan/IMG_0338.mov", "alt": "Henan" },
+          { "type": "video", "src": "/Travel_Footprints/Henan/IMG_0339.mov", "alt": "Henan" },
+          { "type": "video", "src": "/Travel_Footprints/Henan/IMG_0340.mov", "alt": "Henan" },
+          { "type": "image", "src": "/Travel_Footprints/Henan/IMG_0342.HEIC", "alt": "Henan" },
+          { "type": "video", "src": "/Travel_Footprints/Henan/IMG_0345.mov", "alt": "Henan" },
+          { "type": "image", "src": "/Travel_Footprints/Henan/IMG_0346.HEIC", "alt": "Henan" },
+          { "type": "image", "src": "/Travel_Footprints/Henan/IMG_0347.HEIC", "alt": "Henan" },
+          { "type": "image", "src": "/Travel_Footprints/Henan/IMG_0348.HEIC", "alt": "Henan" },
+          { "type": "image", "src": "/Travel_Footprints/Henan/IMG_0349.HEIC", "alt": "Henan" },
+          { "type": "video", "src": "/Travel_Footprints/Henan/IMG_0352.mov", "alt": "Henan" },
+          { "type": "video", "src": "/Travel_Footprints/Henan/IMG_0353.MOV", "alt": "Henan" },
+          { "type": "video", "src": "/Travel_Footprints/Henan/IMG_0354.MOV", "alt": "Henan" },
+          { "type": "image", "src": "/Travel_Footprints/Henan/IMG_0357.HEIC", "alt": "Henan" },
+          { "type": "image", "src": "/Travel_Footprints/Henan/IMG_0358.HEIC", "alt": "Henan" },
+          { "type": "image", "src": "/Travel_Footprints/Henan/IMG_0359.HEIC", "alt": "Henan" },
+          { "type": "image", "src": "/Travel_Footprints/Henan/IMG_0360.HEIC", "alt": "Henan" }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Jiuzhaigou",
+        "folder": "Travel_Footprints/Jiuzhaigou",
+        "thumbnail": "/Travel_Footprints/Jiuzhaigou/IMG_4727.HEIC",
+        "items": [
+          { "type": "image", "src": "/Travel_Footprints/Jiuzhaigou/IMG_4727.HEIC", "alt": "Jiuzhaigou" },
+          { "type": "image", "src": "/Travel_Footprints/Jiuzhaigou/IMG_4730.HEIC", "alt": "Jiuzhaigou" },
+          { "type": "video", "src": "/Travel_Footprints/Jiuzhaigou/IMG_4768.mov", "alt": "Jiuzhaigou" }
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Lanzhou",
+        "folder": "Travel_Footprints/Lanzhou",
+        "thumbnail": "/Travel_Footprints/Lanzhou/IMG_1487.HEIC",
+        "items": [
+          { "type": "image", "src": "/Travel_Footprints/Lanzhou/IMG_1487.HEIC", "alt": "Lanzhou" },
+          { "type": "image", "src": "/Travel_Footprints/Lanzhou/IMG_1488.HEIC", "alt": "Lanzhou" },
+          { "type": "video", "src": "/Travel_Footprints/Lanzhou/IMG_1501.MOV", "alt": "Lanzhou" }
+        ]
+      },
+      {
+        "id": 6,
+        "title": "Qingdao",
+        "folder": "Travel_Footprints/QingDao",
+        "thumbnail": "/Travel_Footprints/QingDao/IMG_0494.HEIC",
+        "items": [
+          { "type": "video", "src": "/Travel_Footprints/QingDao/IMG_2357.mov", "alt": "Qingdao" }
+        ]
+      },
+      {
+        "id": 7,
+        "title": "Wuhan",
+        "folder": "Travel_Footprints/Wuhan",
+        "thumbnail": "/Travel_Footprints/Wuhan/IMG_1270.HEIC",
+        "items": [
+          { "type": "image", "src": "/Travel_Footprints/Wuhan/IMG_1270.HEIC", "alt": "Wuhan" },
+          { "type": "image", "src": "/Travel_Footprints/Wuhan/IMG_1271.HEIC", "alt": "Wuhan" },
+          { "type": "video", "src": "/Travel_Footprints/Wuhan/IMG_1275.mov", "alt": "Wuhan" }
+        ]
+      },
+      {
+        "id": 8,
+        "title": "Xiamen",
+        "folder": "Travel_Footprints/XiaMen",
+        "thumbnail": "/Travel_Footprints/XiaMen/IMG_1726.HEIC",
+        "items": [
+          { "type": "image", "src": "/Travel_Footprints/XiaMen/IMG_1726.HEIC", "alt": "Xiamen" },
+          { "type": "image", "src": "/Travel_Footprints/XiaMen/IMG_1745.HEIC", "alt": "Xiamen" },
+          { "type": "video", "src": "/Travel_Footprints/XiaMen/IMG_1812.MOV", "alt": "Xiamen" }
+        ]
+      }
+    ]
+  },
+  "daily": {
+    "title": "Daily Life",
+    "galleries": [
+      {
+        "id": 1,
+        "title": "Campus Share",
+        "folder": "Daily_Life/Campus_share",
+        "thumbnail": "/Daily_Life/Campus_share/DSC02868.JPG",
+        "items": [
+          { "type": "image", "src": "/Daily_Life/Campus_share/DSC02868.JPG", "alt": "Campus Share" },
+          { "type": "image", "src": "/Daily_Life/Campus_share/DSC02870.JPG", "alt": "Campus Share" },
+          { "type": "image", "src": "/Daily_Life/Campus_share/DSC02875.JPG", "alt": "Campus Share" },
+          { "type": "image", "src": "/Daily_Life/Campus_share/DSC02909.JPG", "alt": "Campus Share" },
+          { "type": "image", "src": "/Daily_Life/Campus_share/DSC02918.jpg", "alt": "Campus Share" },
+          { "type": "image", "src": "/Daily_Life/Campus_share/DSC02923.jpg", "alt": "Campus Share" },
+          { "type": "image", "src": "/Daily_Life/Campus_share/DSC02929.JPG", "alt": "Campus Share" },
+          { "type": "image", "src": "/Daily_Life/Campus_share/IMG_0146.heic", "alt": "Campus Share" },
+          { "type": "image", "src": "/Daily_Life/Campus_share/IMG_0448.JPG", "alt": "Campus Share" },
+          { "type": "image", "src": "/Daily_Life/Campus_share/IMG_0449.JPG", "alt": "Campus Share" },
+          { "type": "image", "src": "/Daily_Life/Campus_share/IMG_0452.JPG", "alt": "Campus Share" },
+          { "type": "image", "src": "/Daily_Life/Campus_share/IMG_0453.JPG", "alt": "Campus Share" },
+          { "type": "image", "src": "/Daily_Life/Campus_share/IMG_0456.JPG", "alt": "Campus Share" },
+          { "type": "image", "src": "/Daily_Life/Campus_share/IMG_2273.HEIC", "alt": "Campus Share" },
+          { "type": "image", "src": "/Daily_Life/Campus_share/IMG_5148.HEIC", "alt": "Campus Share" },
+          { "type": "image", "src": "/Daily_Life/Campus_share/IMG_5152.HEIC", "alt": "Campus Share" }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Game Share",
+        "folder": "Daily_Life/Game_share",
+        "thumbnail": "/Daily_Life/Game_share/519d816c-197eaffa443.MP4",
+        "items": [
+          { "type": "video", "src": "/Daily_Life/Game_share/519d816c-197eaffa443.MP4", "alt": "Game Share" },
+          { "type": "video", "src": "/Daily_Life/Game_share/45c48f74-1986371ab56.MP4", "alt": "Game Share" },
+          { "type": "video", "src": "/Daily_Life/Game_share/2ffe49e8-197aac2dc5f.MP4", "alt": "Game Share" },
+          { "type": "video", "src": "/Daily_Life/Game_share/1a66d7b2-1981d1a6ce5.MP4", "alt": "Game Share" },
+          { "type": "video", "src": "/Daily_Life/Game_share/299bac57-19d2d862413.MP4", "alt": "Game Share" },
+          { "type": "video", "src": "/Daily_Life/Game_share/299bac57-19d2d862413 2.MP4", "alt": "Game Share" }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Concert Share",
+        "folder": "Daily_Life/Concert_share",
+        "thumbnail": "/Daily_Life/Concert_share/IMG_0024.MOV",
+        "items": [
+          { "type": "video", "src": "/Daily_Life/Concert_share/IMG_0024.MOV", "alt": "Concert Share" },
+          { "type": "video", "src": "/Daily_Life/Concert_share/IMG_0033.MOV", "alt": "Concert Share" },
+          { "type": "video", "src": "/Daily_Life/Concert_share/IMG_0034.MOV", "alt": "Concert Share" }
+        ]
+      }
+    ]
+  },
+  "conferences": {
+    "title": "Conferences & Research",
+    "galleries": [
+      {
+        "id": 1,
+        "title": "Research",
+        "folder": "Personal_share/Conferences_Research",
+        "thumbnail": "",
+        "items": []
+      }
+    ]
+  }
+}

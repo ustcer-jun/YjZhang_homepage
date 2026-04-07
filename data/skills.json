@@ -1,0 +1,12 @@
+{
+  "categories": [
+    {
+      "name": "Skills",
+      "skills": ["Python", "MATLAB", "GMT", "Vibe coding"]
+    },
+    {
+      "name": "Languages",
+      "skills": ["Chinese (Native)", "English (Fluent)"]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "milestones": [
+    {
+      "id": 1,
+      "title": "Started Ph.D. Program",
+      "date": "2020-09-01",
+      "description": "Began my Ph.D. in Computer Science at XYZ University"
+    },
+    {
+      "id": 2,
+      "title": "Published First Paper",
+      "date": "2021-06-15",
+      "description": "Published my first research paper in a top-tier conference"
+    },
+    {
+      "id": 3,
+      "title": "Attended ML Conference",
+      "date": "2022-03-20",
+      "description": "Presented research at the International Conference on Machine Learning"
+    },
+    {
+      "id": 4,
+      "title": "Received Research Grant",
+      "date": "2023-01-10",
+      "description": "Awarded a research grant for my work on medical image analysis"
+    }
+  ],
+  "gallery": [
+    {
+      "id": 1,
+      "src": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=academic%20conference%20presentation&image_size=landscape_16_9",
+      "caption": "Presenting at ICML 2022"
+    },
+    {
+      "id": 2,
+      "src": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=research%20lab%20team&image_size=landscape_16_9",
+      "caption": "Lab team photo"
+    },
+    {
+      "id": 3,
+      "src": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=university%20campus%20scenery&image_size=landscape_16_9",
+      "caption": "XYZ University campus"
+    },
+    {
+      "id": 4,
+      "src": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=research%20workspace%20setup&image_size=landscape_16_9",
+      "caption": "My research workspace"
+    },
+    {
+      "id": 5,
+      "src": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=international%20conference%20venue&image_size=landscape_16_9",
+      "caption": "ICML 2022 venue"
+    },
+    {
+      "id": 6,
+      "src": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=research%20collaboration%20meeting&image_size=landscape_16_9",
+      "caption": "Research collaboration meeting"
+    }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "platform": "bilibili",
+      "embedCode": "<iframe src='https://player.bilibili.com/player.html?aid=123456789&cid=987654321&page=1' scrolling='no' border='0' frameborder='no' framespacing='0' allowfullscreen='true'></iframe>",
+      "title": "Machine Learning Tutorial"
+    },
+    {
+      "id": 2,
+      "platform": "douyin",
+      "embedCode": "<iframe src='https://www.douyin.com/embed/video/1234567890123456789' scrolling='no' border='0' frameborder='no' framespacing='0' allowfullscreen='true'></iframe>",
+      "title": "Research Vlog"
+    }
+  ]
+}
