@@ -5,6 +5,8 @@ export default defineConfig({
   integrations: [
     tailwind(),
   ],
+  site: 'https://ustcer-jun.github.io',
+  base: '/YjZhang_homepage',
   i18n: {
     defaultLocale: 'en',
     locales: ['en', 'zh'],
